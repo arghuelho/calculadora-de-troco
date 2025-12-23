@@ -92,9 +92,4 @@ def main():
             text = (f"{quantidade} moeda(s) de R${valor/100:.2f}")
             print(text)
 
-
-    # if troco_em_centavos > 2:
-    #     text = ("1 moeda de R$0,05")
-    #     print(text)
-
 main()
